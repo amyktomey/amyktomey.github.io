@@ -1,59 +1,40 @@
 {
   "personal": {
-    "name": "Zachary Villarreal",
-    "first_name": "Zachary",
-    "email": "zpvillarreal@gmail.com​",
-    "location": "San Diego County, California, United States",
-    "phone": "+ (818) 879-3377"
+    "name": "Amy Tomey",
+    "first_name": "Amy",
+    "email": "amy.tomey59@gmail.com​",
+    "location": "Louisville, Kentucky, United States",
+    "phone": "+ (502) 299-6540"
   },
   "professional": {
-    "title_1": "Data Analyst",
-    "title_2": "Data Scientist",
-    "techs": "NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Dash, Flask, Keras, Tensorflow, SciPy, Scikit-learn, SpaCy, AWS (EC2), Unix.",
-    "main_self_introduction": "I am a data scientist drawn to using data science to help further technological advancements while utilizing past work experience to establish a unique perspective when assessing data-driven solutions. Before becoming a data scientist, I worked in the scientific research industry.",
+    "title_1": "Front End Web Development",
+    "title_2": "Junior Developer",
+    // "techs": " PUT 'TECH SKILLS HERE' ",
+    "main_self_introduction": "I am an experienced in customer relations. I have been a trainer, mentor, life coach, tutor, cashier, hostess, and waitress.  I have spent my life meeeting other people's needs. I believe that the knowledge I am building right now is definitly needed.",
     "top_skills": [
-      { "percentage": 90, "skill": "Python" },
-      { "percentage": 85, "skill": "SQL" },
-      { "percentage": 85, "skill": "Data visualization" },
-      { "percentage": 80, "skill": "Machine learning" },
-      { "percentage": 80, "skill": "Deep learning" },
-      { "percentage": 75, "skill": "Dashboard building" }
+      { "percentage": 90, "skill": "HTML" },
+      { "percentage": 85, "skill": "CSS" },
+      { "percentage": 85, "skill": "JavaScript" },
+      { "percentage": 80, "skill": "HTTP" },
+      { "percentage": 80, "skill": "Node" },
+      { "percentage": 90, "skill": "Python"}
     ],
     "languages": [
-      { "percentage": 100, "lang": "English" },
-      { "percentage": 100, "lang": "Spanish" }
+      { "percentage": 100, "lang": "English" }
     ],
     "links": {
-      "github": "https://github.com/ZacharyVillarreal/",
-      "linkedin": "https://www.linkedin.com/in/zachary-p-villarreal/"
+      "github": "https://github.com/amyktomey",
+      "linkedin": "https://www.linkedin.com/in/amy-tomey-9052036b/"
     },
     "projects": [
       {
-        "title": "Predicting Humans Affectively",
-        "link": "https://github.com/ZacharyVillarreal/Predicting-Humans-Affectively",
+        "title": "Open Book", 
+                "link": "https://github.com/amyktomey/open_book.git",
         "time": {
-          "start": "May 2020",
+          "start": "May 2021",
           "end": "present"
         },
-        "description": "Emotion Predictor using both facial images and audio recordings. Constructed multiple deep learning convolutional neural network trained on audio and images predicting both emotion and sex. Provided a real-time prediction Dash Application hosted on AWS that takes in both live images and audio."
-      },
-      {
-        "title": "Customer Support Response Time Prediction",
-        "link": "https://github.com/ZacharyVillarreal/Customer-Support-Response-Time-Prediction",
-        "time": {
-          "start": "April 2020",
-          "end": "May 2020"
-        },
-        "description": "Analyzed customer support inquiries on Twitter and applied unsupervised NLP concepts to generate topics related to customer support inquiries. Developed predictive models to predict company’s response times to customer’s inquiry tweets using generated topics."
-      },
-      {
-        "title": "Google Play Store Download Analysis",
-        "link": "https://github.com/ZacharyVillarreal/Google-Play-Store-Download-Analysis",
-        "time": {
-          "start": "March 2020",
-          "end": "April 2020"
-        },
-        "description": "Analyzed and visualized application statistics from a Google Play Store dataset, ran statistical hypothesis testing to depict application behavior over various levels of success. Discovered success levels have no direct effect on the distribution of ratings an application receives."
+        "description": "This is the final project for Code Louisville's JavaScript cohort. It was created for an up and coming catering business that is in the planning stages. It features a photo slideshow, a hidden menu and an estimate calculator."
       }
     ],
     "experience": [
@@ -87,28 +68,37 @@
     ],
     "certificates": [
       {
-        "organization": "Galvanize LA",
-        "title": "Data Science Certificate",
+        "organization": "Code Louisville",
+        "title": "JavaScript",
         "time": {
-          "start": "March 2020",
-          "end": "June 2020"
+          "start": "May 2021",
+          "end": "July 2021"
         },
-        "description": "A 13-week immersive bootcamp with 700+ hours of coding, weekly Case Studies, and three capstone projects. Python-based curriculum focused on machine learning and best practices in statistical analysis, including frequentist and Bayesian methods. Utilizes regression, classification, and clustering to model real-world structured and unstructured data."
+        "description": "A 12-week intensive training program with hours of coding classes  using Treehouse, with coding challenges, weekly meetings with mentors, and a capstone project. The curriculum focused on JavaScript, with  empahsis on DOM, debugging, callback functions, object interaction, HTTP basics, ES2015, AJAX, array interation, asynchronous programming, fetch API, cLosures, conditionals, regular expressions (regex) and nmp basics. We built on the foudation that was established in Front-End Development."
       },
       {
-        "organization": "University of California Davis",
-        "title": "Bachelor of Science in Global Disease Biology",
+      "organization": "Code Louisville",
+      "title": "Front-end Web Development",
+      "time": {
+        "start": "January 2021",
+        "end": "March 2021"
+      },
+      "description": "A 12-week intensive training program with hours of coding classes and training using Treehouse, coding challenges, weekly meetings with mentors, and a capstone project. We built on the foudation that was established in 150 hours of 'prework' in HTML utilizing the  Treehouse platform. The curriculum focused on skills needed to build a funcitonal, mobile friendly website using the VSCode text editor, terminal, git and github. We added forms and tables to our HTML skillset. In CSS, we studied layout, enhanced design, mobile-first, debugging, responsive layouts, media queries, selectors, flexbox and grid layout. InJavaScript, we covered the basics including: variables, inout and output, numbers and functions, loops, arraays and objects."
+      },
+      {
+        "organization": "Indiana Wesleyan University",
+        "title": "Bachelor of Science in  Businewss Administration",
         "time": {
-          "start": "September 2015",
-          "end": "June 2018"
+          "start": "August 2011",
+          "end": "May 2013"
         },
-        "description": "Bachelor of Science in Global Disease Biology."
+        "description": "Bachelor of Science in Businewss Administration."
       }
     ],
     "volunteering":[
-        "Volunteer at Los Robles Hospital and Medical Center",
-        "Student Clinician at Vida Volunteer",
-        "Emergency Room Volunteer at Scripps Health"
+        "Red Cross Crisis Volunteer in Washington County, Indiana",
+        "Ronald McDonald House Volunteer in Louisville, Kentucky",
+        "VISTA Volunteer at Indiana School for the Deaf"
     ]
   },
 
